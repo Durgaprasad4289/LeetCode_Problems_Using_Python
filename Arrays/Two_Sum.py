@@ -24,15 +24,14 @@
 # This is more efficient than a nested loop approach (O(n²)).
 
 
-array=[1,7,2,8]
-def function(a,t):
-    dictionary={}
-    diff=0
-    for i,j in enumerate(a):
-        diff=t-j
-        if diff in dictionary:
-            return [dictionary[diff],i]
-        dictionary[j]=i 
+class Solution(object):
+    def twoSum(self, nums, target):
+        map={}
+        for i,j in enumerate(nums):
+            diff=target-j
+            if diff in map:
+                return [map[diff],i]
+            map[j]=i
+                    
 
-print(function(array,9))
 
