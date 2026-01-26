@@ -93,17 +93,6 @@ Each solution is written with **clarity, efficiency, and learning intent**, focu
 ## 📌 Connect With Me
 - If you’re also on a DSA journey, let’s connect and grow together.
 
----
-
-![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active%20Learning-important?style=for-the-badge)
-
----
-
-### 🧠 LeetCode Practice
-
 ![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode)
 
 ---
