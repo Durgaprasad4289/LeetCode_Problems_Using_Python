@@ -30,3 +30,5 @@ class Solution(object):
             current_element,arr[i]=arr[i],right_max
             right_max=max(right_max,current_element)
         return arr
+s=Solution()
+print(s.replaceElements([17,18,5,4,6,1]))  #
