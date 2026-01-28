@@ -2,8 +2,10 @@
 
 Welcome to my **LeetCode Journey** repository 👋  
 This repository documents my consistent effort to strengthen **Data Structures & Algorithms** through structured problem solving on **LeetCode**.
-
 Each solution is written with **clarity, efficiency, and learning intent**, focusing on optimal approaches and clean logic.
+
+#### 🔗 LeetCode Profile
+ [My LeetCode Profile Link Here](https://leetcode.com/u/Prashanth_Naidu/)
 
 ---
 
