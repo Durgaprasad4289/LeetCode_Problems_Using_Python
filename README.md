@@ -4,8 +4,12 @@ Welcome to my **LeetCode Journey** repository 👋
 This repository documents my consistent effort to strengthen **Data Structures & Algorithms** through structured problem solving on **LeetCode**.
 Each solution is written with **clarity, efficiency, and learning intent**, focusing on optimal approaches and clean logic.
 
-#### 🔗 LeetCode Profile
- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="description" width="30"/> 👈🏻 My LeetCode Profile ](https://leetcode.com/u/Prashanth_Naidu/)
+### 🔗 LeetCode Profile
+<p align="center">
+ 
+ [<img src="https://img.icons8.com/?size=160&id=DY5ms98U0Yqs&format=png" alt="description" width="30"/>  My LeetCode Profile ](https://leetcode.com/u/Prashanth_Naidu/)
+ 
+</p>
 
 ---
 
