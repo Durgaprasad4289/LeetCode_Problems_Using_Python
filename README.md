@@ -5,7 +5,7 @@ This repository documents my consistent effort to strengthen **Data Structures &
 Each solution is written with **clarity, efficiency, and learning intent**, focusing on optimal approaches and clean logic.
 
 #### 🔗 LeetCode Profile
- [My LeetCode Profile <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="description" width="300"/>](https://leetcode.com/u/Prashanth_Naidu/)
+ [My LeetCode Profile <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="description" width="30"/>](https://leetcode.com/u/Prashanth_Naidu/)
 
 ---
 
