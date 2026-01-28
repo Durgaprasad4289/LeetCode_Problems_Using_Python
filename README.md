@@ -6,7 +6,7 @@ Each solution is written with **clarity, efficiency, and learning intent**, focu
 
 ### 🔗 LeetCode Profile
 
-[<img src="https://img.icons8.com/?size=160&id=DY5ms98U0Yqs&format=png" alt="description" width="30"/> My LeetCode Profile ](https://leetcode.com/u/Prashanth_Naidu/) 
+[<img src="https://img.icons8.com/?size=160&id=rYBVqyU1tdKG&format=png" alt="description" width="30"/> My LeetCode Profile ](https://leetcode.com/u/Prashanth_Naidu/) 
   
 ---
 
