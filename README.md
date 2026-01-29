@@ -4,6 +4,8 @@ Welcome to my **LeetCode Journey** repository 👋
 This repository documents my consistent effort to strengthen **Data Structures & Algorithms** through structured problem solving on **LeetCode**.
 Each solution is written with **clarity, efficiency, and learning intent**, focusing on optimal approaches and clean logic.
 
+<a href="https://trendshift.io/repositories/12800" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12800" alt="patchy631%2Fai-engineering-hub | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 ### 🔗 LeetCode Profile
 
 [<img src="https://img.icons8.com/?size=160&id=DY5ms98U0Yqs&format=png" alt="description" width="30"/> My LeetCode Profile ](https://leetcode.com/u/Prashanth_Naidu/) 
