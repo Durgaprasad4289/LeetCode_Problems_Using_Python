@@ -34,7 +34,7 @@ This repository documents my **LeetCode problem-solving journey**, focused on ma
 ">
 
   <img 
-    src="https://brandlogos.net/wp-content/uploads/2025/11/leetcode-logo_brandlogos.net_c4kgx.png" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" 
     width="280"
     style="
       background: white;
