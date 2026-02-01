@@ -70,9 +70,9 @@ background:linear-gradient(135deg,#2b1055,#7597de);
 box-shadow:0 12px 35px rgba(0,0,0,0.35);
 ">
 
-<img src="https://brandlogos.net/wp-content/uploads/2025/11/leetcode-logo_brandlogos.net_c4kgx.png"
-width="260"
-style="background:white;padding:14px;border-radius:16px;margin-bottom:18px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+width="50"
+style="background:white;padding:14px;scale:1.1;border-radius:16px;margin-bottom:18px;" />
 
 <a href="https://leetcode.com/u/Prashanth_Naidu/"
 style="
