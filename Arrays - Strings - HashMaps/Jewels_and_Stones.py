@@ -1,8 +1,3 @@
-            # res=0
-            # for i  in jewels:
-            #    n=stones.count(i)
-            #    res+=n
-            # return res
 
 class Solution(object):
     def numJewelsInStones(self, jewels, stones):

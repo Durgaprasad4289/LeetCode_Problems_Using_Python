@@ -1,13 +1,4 @@
 
-# Example 1:
-
-# Input: nums = [0,1,2,4,5,7]
-# Output: ["0->2","4->5","7"]
-# Explanation: The ranges are:
-# [0,2] --> "0->2"
-# [4,5] --> "4->5"
-# [7,7] --> "7"
-
 class Solution(object):
     def summaryRanges(self, nums):
         last=prev=nums[0]
