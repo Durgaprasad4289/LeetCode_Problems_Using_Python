@@ -1,16 +1,13 @@
-
-# ========= Solution 1 ======== 
-
 class Solution:
-    def maxSubarraySum(self, arr, k):
-        if not arr:
-            return 0
-        l = 0
-        cur_sum = max_sum = sum(arr[:k])
-        for r in range(k,len(arr)):
-            cur_sum += (-arr[l]+arr[r])
-            max_sum = max(max_sum,cur_sum)
-            l+=1
+    def longestSubarray(self, arr, k):  
+        # code here
+        
+        cur_sum = max_sum = 0
+        table = {0:-1}
+        for idx,num in enumerate(arr):
+            cur_sum += num
+            if cur_sum-k in table:
+                max_sum = max(max_sum,idx-table[cur_sum-k])
+            if cur_sum not in table:
+                table[cur_sum] = idx
         return max_sum
-
-# ========= Solution 2 ======== 
